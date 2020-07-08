@@ -11,6 +11,7 @@ The series is composed by TFP (rtfpna variable) at constant national prices (200
 
 3. Check in the following link pages 2 and 3: https://cran.r-project.org/web/packages/pwt8/pwt8.pdf to see a list of all variables in the original dataset. 
 Can you think about another feature that could be helpful in explaining TFP series? Explain.
+  
 
 # Case 2
 Attached to this test is a .csv file which contains data from Comexstat, which is basically the official data source for brazilian exports e imports,
